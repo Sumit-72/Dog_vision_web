@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Environment
+.env
+.venv/
+venv/
+ENV/
+env/
+*.env
+
+# Streamlit cache
+.streamlit/
+
+# Data files
+*.csv
+*.h5
+*.ckpt
+*.db
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
+
+# Model files
+*.h5
+*.pb
+
+# Images
+*.png
+*.jpg
+*.jpeg
+
+# Others
+*.bak
+*.swp
