@@ -60,7 +60,7 @@ A deep learning-powered web application that identifies dog breeds from images w
 
 Upload an image like this:
 
-![Dog Example]([images/golden_retriever.jpg](https://upload.wikimedia.org/wikipedia/commons/b/bd/Golden_Retriever_Dukedestiny01_drvd.jpg))
+![Dog Example](https://upload.wikimedia.org/wikipedia/commons/b/bd/Golden_Retriever_Dukedestiny01_drvd.jpg)
 
 Predicted Output: `Golden Retriever`
 
